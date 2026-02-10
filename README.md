@@ -4,7 +4,7 @@ EDA & Cleaning for AI/ML/DS
 # steps
 - Python (Data Structures, OOP, File Handling)
 - Pandas
-- Matplotlib, Seaborn
+- Visualization (Matplotlib, Seaborn)
 - Missing Value Handling
 - Outliers Treatment
 - Normalization & Standardization
@@ -21,5 +21,9 @@ https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
 
 # Method
 ## Missing Value
+### Missing Value Heatmap
 ### Mean, Median, Mode Imputation
 ### KNN Imputation
+
+## Outlier Treatment
+### Boxplot
